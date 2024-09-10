@@ -22,16 +22,46 @@
 
 // Array, Object, Functions
 
-const heros = ["Shaktiman","nagraaj","doga"]
+//const heros = ["Shaktiman","nagraaj","doga"]
 let myObj = {
     name: "Paras",
     age: 22,
 }
 
-const myFunction = function(){
-    console.log("Hello world");
-}
+// const myFunction = function(){
+   /// console.log("Hello world");
+//}
 
-console.log(typeof heros);
+//console.log(typeof heros);
+
+
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive) , Heap (Non primitive)
+
+//let myYoutubename = "neel@gmail.com"
+
+//let anotherName = myYoutubename
+//anotherName = "chai or code"
+
+//console.log(myYoutubename);
+//console.log(anotherName);
+
+//let userOne = {
+    //email: "user@gmail.com",
+  //  upi: "user@okaxis"
+//} 
+
+//let userTwo = userOne 
+
+//userTwo.email = "hitesh@gmail.com"
+
+//console.log(userOne.email);
+//console.log(userTwo.email);
+
+
 
 
