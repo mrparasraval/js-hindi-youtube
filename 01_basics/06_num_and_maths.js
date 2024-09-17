@@ -31,6 +31,14 @@ console.log(Math.floor(Math.random()* 10) + 1);
 const min = 10
 const max = 20
 
+console.log(Math.floor(Math.random() * (max - min + 1) + min);
+
+// 0.05* (20 - 10 + 1) + 10
+// 0.05 (9) + 10
+//0.45+10
+// 10.45
+//10
+
 
 
 
